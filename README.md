@@ -46,4 +46,5 @@ A Decision Tree classifier with the **gini** criterion funtion was used to class
 * [ Security Data Collection and Data Analytics in the Internet: A Survey by Xuyang Jing, Zheng Yan and Witold Pedrycz](https://ieeexplore.ieee.org/iel7/9739/5451756/08428412.pdf)
 * https://www.netscout.com/what-is-ddos/application-layer-attacks 
 * https://mazebolt.com/what-is-ddos-attack
-* 
+
+**Special thanks to Dr. (Mrs.) R. Leela Velusamy for guiding me throughout this interesting learning process.**
